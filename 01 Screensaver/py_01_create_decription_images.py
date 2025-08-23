@@ -1,5 +1,6 @@
 import fitz  # PyMuPDF
 import os
+#
 
 def pdf_to_images(pdf_path, output_folder):
     """
