@@ -17,19 +17,19 @@ Along with the resolution of Eq. 2 and Eq. 3, the code also solves Eq. 4 as loca
 
 
 $$
-\alpha(\theta_f) = \frac{4b}{a(\theta_f) c(\theta_f)}\sum^NA_n\sin(n\theta_f)+\alpha_{L=0}(\theta_f)+\sum^NnA_n\frac{\sin n\theta_f}{\sin\theta_f} \tag{1}
+\alpha(\theta_f) = \frac{4b}{a(\theta_f) c(\theta_f)}\sum^NA_n\sin(n\theta_f)+\alpha_{L=0}(\theta_f)+\sum^NnA_n\frac{\sin n\theta_f}{\sin\theta_f} \qquad\qquad \qquad (1)
 $$
 
 
 $$
-X_n = n\sin(n\theta_f)\left[1+\frac{c(\theta_f)a_{local}(\theta_f)}{4b}\cdot\frac{n}{\sin(\theta_f)}\right]\tag{2}
+X_n = n\sin(n\theta_f)\left[1+\frac{c(\theta_f)a_{local}(\theta_f)}{4b}\cdot\frac{n}{\sin(\theta_f)}\right] \qquad\qquad\qquad (2)
 $$
 
 $$
-\left[X_1,X_2,\cdots,X_N\right]\left[A_1,A_2,\cdots,A_N\right]^T = \frac{c(\theta_f)a_{local}(\theta_f)}{4b}\cdot\left( \alpha\left(\theta_f\right)-\alpha_{L=0,local}\left(\theta_f\right)\right)\tag{3}
+\left[X_1,X_2,\cdots,X_N\right]\left[A_1,A_2,\cdots,A_N\right]^T = \frac{c(\theta_f)a_{local}(\theta_f)}{4b}\cdot\left( \alpha\left(\theta_f\right)-\alpha_{L=0,local}\left(\theta_f\right)\right)\qquad (3)
 $$
 $$
-C_{L,\Gamma}(\theta_f) = C_{L,\alpha_{eff}}(\theta_f)\tag{4}
+C_{L,\Gamma}(\theta_f) = C_{L,\alpha_{eff}}(\theta_f)\qquad(4)
 $$
 
 The code proceeds as follows:
