@@ -12,9 +12,12 @@ To specify the choices I made, the full component list, all electrical connectio
 
 And here's a few pictures to give you desire to read those pages ;)
 
+To spare you the classic “trust me bro” moment, I actually wrote proper documentation instead of just throwing parts together and hoping for the best:
 
-> **Full detailed report (70+ pages)** → [01_Documents/01_First_Drone_Build.pdf](01_Documents/01_First_Drone_Build.pdf)  
-> **Wiring diagram (editable SVG)** → [01_Documents/02_First_Drone_Build_Wiring_Scheme.svg](02_First_Drone_Build_Wiring_Scheme.svg)
+**The build report** → [01_Documents/01_First_Drone_Build.pdf](01_Documents/01_First_Drone_Build.pdf)  
+**The complete, vectorial wiring diagram** → [01_Documents/02_First_Drone_Build_Wiring_Scheme.svg](01_Documents/02_First_Drone_Build_Wiring_Scheme.svg)
+
+And because nobody clicks a PDF without a little teaser, here’s some highly addictive eye-candy to trigger your inner drone nerd:
 
 
 <div align="center">
@@ -27,6 +30,8 @@ And here's a few pictures to give you desire to read those pages ;)
 </a>
 
 </div>
+
+But wait, there's more!
 
 <div align="center">
 
