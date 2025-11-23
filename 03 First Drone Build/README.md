@@ -8,10 +8,6 @@ My background is purely mechanical/aerospace → I had zero practical experience
 
 ## Available Reports
 
-To specify the choices I made, the full component list, all electrical connections and all sort of similar things, I wrote the following documents:
-
-And here's a few pictures to give you desire to read those pages ;)
-
 To spare you the classic “trust me bro” moment, I actually wrote proper documentation instead of just throwing parts together and hoping for the best:
 
 **The build report** → [01_Documents/01_First_Drone_Build.pdf](01_Documents/01_First_Drone_Build.pdf)  
