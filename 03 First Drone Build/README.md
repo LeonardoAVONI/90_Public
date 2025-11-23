@@ -14,7 +14,7 @@ And here's a few pictures to give you desire to read those pages ;)
 
 
 > **Full detailed report (70+ pages)** → [01_Documents/01_First_Drone_Build.pdf](01_Documents/01_First_Drone_Build.pdf)  
-> **Wiring diagram (editable SVG)** → [02_First_Drone_Build_Wiring_Scheme.svg](02_First_Drone_Build_Wiring_Scheme.svg)
+> **Wiring diagram (editable SVG)** → [01_Documents/02_First_Drone_Build_Wiring_Scheme.svg](02_First_Drone_Build_Wiring_Scheme.svg)
 
 
 <div align="center">
