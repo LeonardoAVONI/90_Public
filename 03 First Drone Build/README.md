@@ -56,7 +56,7 @@ But wait, there's more!
 → **Not** chasing maximum flight time or racing performance or any design optimization – just something that reliably flies and teaches me the full stack.
 
 ## Baseline Choices
-To allow easier law fulfillment and also have a less dangerous drone, I chose to build a QAV250 platform, aka a 250mm motor-to-motor diagonal quadcopter. Moreover, this project uses PX4 + Pixhawk 6C Mini. The reasons for this choice are specified in the above documentation. 
+To allow easier law fulfillment and also have a less dangerous drone, I chose to build a QAV250 platform, aka a 250mm motor-to-motor-diagonal quadcopter. Moreover, this project uses PX4 + Pixhawk 6C Mini. The reasons for this choice are specified in the above documentation. 
 
 ## Current cost
 The cost includes shipping and taxes (Shipping to Toulouse, France)
