@@ -11,7 +11,7 @@ My background is purely mechanical/aerospace → I had zero practical experience
 To spare you the classic “trust me bro” moment, I actually wrote proper documentation instead of just throwing parts together and hoping for the best:
 
 **The build report** → [01_Documents/01_First_Drone_Build.pdf](01_Documents/01_First_Drone_Build.pdf)  
-**The complete, vectorial wiring diagram** → [01_Documents/02_First_Drone_Build_Wiring_Scheme.svg](01_Documents/02_First_Drone_Build_Wiring_Scheme.svg)
+**The complete, vectorial wiring diagram** → [01_Documents/02_First_Drone_Build_Wiring_Scheme.pdf](01_Documents/02_First_Drone_Build_Wiring_Scheme.pdf)
 
 And because nobody clicks a PDF without a little teaser, here’s some highly addictive eye-candy to trigger your inner drone nerd:
 
@@ -70,7 +70,7 @@ The cost includes shipping and taxes (Shipping to Toulouse, France)
 
 - Full component list with exact AliExpress/Amazon links
 - Detailed compatibility checks (voltages, connectors, mounting holes)
-- Complete wiring diagram (SVG)
+- Complete wiring diagram (PDF)
 - Step-by-step assembly notes & pitfalls
 - Simplified Drone conceptual CAD
 
