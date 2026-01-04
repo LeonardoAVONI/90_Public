@@ -66,11 +66,12 @@ The cost includes shipping and taxes (Shipping to Toulouse, France)
 | 11/2025|First drone (e.g. ESC) and non-drone (e.g. Battery Charger) components | 540              |
 
 
-## Current status (November 2025)
+## Current status (January 2025)
 
 - Full component list with exact AliExpress/Amazon links
 - Detailed compatibility checks (voltages, connectors, mounting holes)
-- Complete wiring diagram (PDF)
+- Updated (Jan2026) wiring diagram (PDF) + Pinout details on the report
+- Started FPV Liftoff simulator with RC Controller
 - Step-by-step assembly notes & pitfalls
 - Simplified Drone conceptual CAD
 
